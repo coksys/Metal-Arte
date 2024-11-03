@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Fotos
-permalink: /Fotos/
+permalink: /fotos/
 ---
